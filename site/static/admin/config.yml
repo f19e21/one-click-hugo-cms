@@ -1,9 +1,9 @@
 backend:
   name: git-gateway
   branch: master
-  identity_url: "http://rootssuperfoods.nanx.org/.netlify/identity"
-  gateway_url:  "http://rootssuperfoods.nanx.org/.netlify/git"
-  site_domain:  "http://rootssuperfoods.nanx.org/"
+  identity_url: "https://rootssuperfoods.nanx.org/.netlify/identity"
+  gateway_url:  "https://rootssuperfoods.nanx.org/.netlify/git"
+  site_domain:  "https://rootssuperfoods.nanx.org/"
   accept_roles: #optional - accepts all users if left out
     - admin
     - editor
